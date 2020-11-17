@@ -1,0 +1,56 @@
+.project-card{
+    
+    position: absolute;
+    width: 1120px;
+    height: 200px;
+    left: 50px;
+    
+
+    background: #202040;
+}
+.text{
+    position: absolute;
+    width: 770px;
+    height: 140px;
+    left: 30px;
+    top: 29px;
+    text-align: left;
+
+    font-family: Times New Roman;
+    font-style: normal;
+    
+    font-size: 25px;
+    line-height: 34px;
+
+    color: #FFFFFF;
+}
+#python{
+    position: absolute;
+    width: 181px;
+    height: 194px;
+    left: 887px;
+    top: 6px;
+
+    background: url(./logo/python\ 1.svg);
+}
+#java{
+    position: absolute;
+    width: 115px;
+    height: 150px;
+    left: 930px;
+    top: 30px;
+
+    background: url(./logo/java\ 1.svg);
+    background-repeat: no-repeat;
+}
+#c{
+    position: absolute;
+    width: 148px;
+    height: 153px;
+    left: 916px;
+    top: 23px;
+    
+    background: url(./logo/c2\ 1.svg);
+    background-repeat: no-repeat;
+
+}

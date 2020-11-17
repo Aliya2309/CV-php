@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    
+}
+
+.main{
+    background-image: url('bg\ 2.svg');
+    position: absolute;
+    height: 887px;
+    left: 0px;
+    right: 0px;
+    top: 60px;
+    
+}
+nav{
+    display: flex;
+    height: 60px;
+    width: 100%;
+    background: #202040;
+    align-items: center;
+    justify-content: space-evenly;
+    
+   
+    
+    
+    
+}
+nav>div{
+    
+    width: 206px;
+    height: 74px;
+    top: 20px;
+    
+    display: flex;
+    height: 60px;
+    background: #202040;
+    align-items: center;
+    justify-content: space-evenly;
+
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 46px;
+    text-align: center;
+
+    color: #BBBBFF;
+
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}

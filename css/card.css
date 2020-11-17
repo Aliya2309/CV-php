@@ -1,0 +1,21 @@
+.card{
+    position: absolute;
+    width: 322px;
+    height: 450px;
+    
+    top: 100px;
+
+    background: #202040;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.26);
+
+
+    font-family: Times New Roman;
+    font-style: normal;
+    
+    font-size: 35px;
+    line-height: 46px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}

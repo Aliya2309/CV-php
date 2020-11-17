@@ -1,0 +1,84 @@
+.skill-card{
+    position: absolute;
+    width: 540px;
+    height: 170px;
+    
+
+    background: #202040;
+
+
+}
+#java{
+    position: absolute;
+    width: 89px;
+    height: 117px;
+    left: 61px;
+    top: 16px;
+    
+    background: url(./logo/java\ 1.svg);
+}
+#python{
+    position: absolute;
+    width: 165px;
+    height: 198px;
+    left: 43px;
+    top: 0px;
+
+    background: url(./logo/python\ 1.svg);
+}
+#c{
+ 
+
+    background: url(./logo/c2\ 1.svg);
+
+    position: absolute;
+    width: 127px;
+    height: 154px;
+    left: 50px;
+    top: 10px;
+
+}
+#cpp{
+    position: absolute;
+    width: 154px;
+    height: 144px;
+    left: 36px;
+    top: 13px;
+
+    background: url(./logo/c++\ 1.svg);
+}
+#html{
+    position: absolute;
+    width: 146px;
+    height: 151px;
+    left: 26px;
+    top: 9px;
+
+    background: url(./logo/html\ 1.svg);
+}
+#css{
+    
+    position: absolute;
+    width: 98px;
+    height: 134px;
+    left: 54px;
+    top: 18px;
+
+    background: url(./logo/css\ 1.svg);
+}
+.text{
+    position: absolute;
+    width: 212px;
+    height: 80px;
+    left: 284px;
+    top: 53px;
+
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
